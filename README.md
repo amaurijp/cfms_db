@@ -54,9 +54,6 @@ A complete first analysis of the cfms_db database is presented in the article:
 
 -------------------------------------------------------------------------------
 
-Published on Chemistry of Materials (to appear)
--------------------------------------------------------------------------------
-
 The features (columns in file `cfms_db.csv`) extracted are:
 
 1. carbonization (synthesis) method / Physical Unit = None (categorical terms has no PU);

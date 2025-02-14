@@ -5,7 +5,7 @@ The `cfms_db.csv` file is in version 1.0 and it was obtained from the
 processsing of 10,975 articles which contained the terms **"biochar"** or
 **"hydrochar"** either in the title, abstract or keywords. The title of each
 article indexed in the `cfms_db.csv` is detailed in the file
-`filename_id_1.1.csv`.
+`filename_id_1.csv`.
 
 The carbon functional materials database (cfms_db) was generated from the
 processing of scientific articles by the [a.RIX

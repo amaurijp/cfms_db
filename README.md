@@ -1,7 +1,7 @@
 CARBON FUNCTIONAL MATERIALS DATABASE (cfms_db) - Version 1.0
 ===============================================================================
 
-The `cfms_db_1.csv` file is in version 1.0 and it was obtained from the
+The `cfms_db.csv` file is in version 1.0 and it was obtained from the
 processsing of 10,975 articles which contained the terms **"biochar"** or
 **"hydrochar"** either in the title, abstract or keywords. The title of each
 article indexed in the `cfms_db.csv` is detailed in the file

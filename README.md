@@ -4,7 +4,7 @@ CARBON FUNCTIONAL MATERIALS DATABASE (cfms_db) - Version 1.0
 The `cfms_db_1.csv` file is in version 1.0 and it was obtained from the
 processsing of 10,975 articles which contained the terms **"biochar"** or
 **"hydrochar"** either in the title, abstract or keywords. The title of each
-article indexed in the `cfms_db.csv` is detailed in the file
+article indexed in the `cfms_db_1.csv` is detailed in the file
 `filename_id_1.csv`.
 
 The carbon functional materials database (cfms_db) was generated from the
@@ -54,7 +54,7 @@ A complete first analysis of the cfms_db database is presented in the article:
 
 -------------------------------------------------------------------------------
 
-The features (columns in file `cfms_db.csv`) extracted are:
+The features (columns in file `cfms_db_1.csv`) extracted are:
 
 1. carbonization (synthesis) method / Physical Unit = None (categorical terms has no PU);
 2. biomass precursor / Physical Unit = None (categorical terms has no PU);
